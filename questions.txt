@@ -1,0 +1,300 @@
+0|0|0|what data type is used to store decimal number? A)int B)float C)char D)none of the above|B
+0|0|1|2.  Which symbol ends a statement in C?~    A) :  B) .  C) ;  D) ,|C
+0|0|2|3.  Which data type stores integers?~    A) float  B) char  C) int  D) double|C
+0|0|3|4.  Which of these is a valid variable name?~    A) 2name  B) my-var  C) myVar  D) my var|C
+0|0|4|5.  What does 'printf' do?~    A) Takes input  B) Prints output  C) Declares var  D) Loops|B
+0|0|5|6.  What is the extension of a C file?~    A) .cp  B) .c  C) .cpp  D) .java|B
+0|0|6|7.  Which header is needed for printf?~    A) math.h  B) string.h  C) stdio.h  D) ctype.h|C
+0|0|7|8.  What value does main() return on success?~    A) 1  B) -1  C) 0  D) NULL|C
+0|0|8|9.  Which is used to take input in C?~    A) cin  B) input()  C) scanf  D) read()|C
+0|0|9|10. Which symbol starts a single-line comment?~    A) //  B) #  C) /* */  D) --|A
+0|0|10|11. Which loop runs at least once?~    A) for  B) while  C) do-while  D) foreach|C
+0|0|11|12. What is 'int' in C?~    A) Function  B) Data type  C) Keyword loop  D) Operator|B
+0|0|12|13. Which operator is used to assign a value?~    A) ==  B) !=  C) =  D) :=|C
+0|0|13|14. What is the use of 'return' in C?~    A) Loops back  B) Exits function  C) Declares var  D) Prints|B
+0|0|14|15. Which of these is NOT a C data type?~    A) int  B) float  C) string  D) char|C
+0|0|15|16. What does 'char' store?~    A) Numbers  B) Decimals  C) Characters  D) Arrays|C
+0|0|16|17. Which symbol is used for modulus?~    A) /  B) *  C) %  D) ^|C
+0|0|17|18. What is the output of: printf("%d", 10)?~    A) 10.0  B) 10  C) "10"  D) Error|B
+0|0|18|19. Which is the correct if syntax?~    A) if x > 0  B) if (x > 0)  C) if [x>0]  D) if {x>0}|B
+0|0|19|20. Which header is used for math functions?~    A) stdio.h  B) ctype.h  C) math.h  D) string.h|C
+0|1|0|1.  What does '&&' mean in C?~    A) OR  B) NOT  C) AND  D) XOR|C
+0|1|1|2.  What is the size of int on 32-bit system?~    A) 1 byte  B) 2 bytes  C) 4 bytes  D) 8 bytes|C
+0|1|2|3.  Which is a valid pointer declaration?~    A) int p  B) int &p  C) int *p  D) ptr int|C
+0|1|3|4.  What does 'break' do in a loop?~    A) Skips one iter  B) Restarts loop  C) Exits loop  D) Ends program|C
+0|1|4|5.  What is a function prototype?~    A) Function body  B) Function declaration  C) Function call  D) Return value|B
+0|1|5|6.  What does 'continue' do?~    A) Exits loop  B) Skips current iteration  C) Restarts program  D) Calls function|B
+0|1|6|7.  What is recursion?~    A) Loop type  B) Function calling itself  C) Array type  D) Pointer operation|B
+0|1|7|8.  Which is correct array declaration?~    A) int a[]  B) array int a  C) int a(5)  D) int [5]a|A
+0|1|8|9.  What does sizeof() return?~    A) Value  B) Address  C) Size in bytes  D) Type name|C
+0|1|9|10. Which format specifier is for float?~    A) %d  B) %c  C) %f  D) %s|C
+0|1|10|11. What is a NULL pointer?~    A) Pointer to 0  B) Pointer to nothing  C) Dangling pointer  D) Array pointer|B
+0|1|11|12. What does 'static' variable mean?~    A) Constant value  B) Retains value between calls  C) Global var  D) Pointer type|B
+0|1|12|13. Which operator accesses struct member?~    A) ->  B) ::  C) .  D) Both A and C|D
+0|1|13|14. What is a segmentation fault?~    A) Compile error  B) Invalid memory access  C) Logic error  D) Syntax error|B
+0|1|14|15. What is the output of 5/2 in C (int)?~    A) 2.5  B) 3  C) 2  D) Error|C
+0|1|15|16. Which is a bitwise AND operator?~    A) &&  B) &  C) | 
+0|1|16|17. What does 'extern' keyword do?~    A) Declares local var  B) Declares external var  C) Creates pointer  D) Ends block|B
+0|1|17|18. What is a two-dimensional array?~    A) Array of pointers  B) Array of arrays  C) Linked list  D) Stack|B
+0|1|18|19. What is 'void' return type?~    A) Returns 0  B) Returns NULL  C) Returns nothing  D) Returns int|C
+0|1|19|20. What is the correct way to open a file in C?~    A) open()  B) fopen()  C) fileopen()  D) read()|B
+0|2|0|1.  What is a dangling pointer?~    A) Null pointer  B) Pointer to freed memory  C) Wild pointer  D) Array pointer|B
+0|2|1|2.  Which storage class has lifetime of entire program?~    A) auto  B) register  C) static  D) extern|C
+0|2|2|3.  What is the output: printf("%d", sizeof(char))?~    A) 2  B) 4  C) 1  D) 8|C
+0|2|3|4.  What is a memory leak?~    A) Stack overflow  B) Unfreed heap memory  C) Null pointer  D) Dangling ref|B
+0|2|4|5.  Which is correct function pointer syntax?~    A) int *f()  B) int (*f)()  C) *int f()  D) f int*()|B
+0|2|5|6.  What does 'volatile' keyword mean?~    A) Constant var  B) May change unexpectedly  C) Static var  D) Register var|B
+0|2|6|7.  What is endianness?~    A) Memory alignment  B) Byte order in memory  C) Pointer type  D) Cache type|B
+0|2|7|8.  Pre-increment vs post-increment: int a=5; b=a++; b=?~    A) 6  B) 5  C) 4  D) Error|B
+0|2|8|9.  What does 'typedef' do?~    A) Creates new type  B) Renames existing type  C) Declares pointer  D) Both A and B|B
+0|2|9|10. What is undefined behavior in C?~    A) Compile error  B) Runtime error  C) Unpredictable program behavior  D) Warning|C
+0|2|10|11. What is the result of: 1 << 3?~    A) 3  B) 4  C) 8  D) 6|C
+0|2|11|12. What is a union in C?~    A) Struct with all fields  B) Shared memory members  C) Array type  D) Function group|B
+0|2|12|13. What does 'malloc' return on failure?~    A) 0  B) -1  C) NULL  D) Error|C
+0|2|13|14. What is the correct way to free memory?~    A) delete()  B) remove()  C) free()  D) dealloc()|C
+0|2|14|15. Which calling convention pushes args right to left?~    A) stdcall  B) fastcall  C) cdecl  D) pascal|C
+0|2|15|16. What is a stack frame?~    A) Data structure  B) Function's local memory block  C) Heap section  D) Register|B
+0|2|16|17. What is the output: printf("%d", 5 & 3)?~    A) 8  B) 7  C) 1  D) 15|C
+0|2|17|18. What does 'inline' keyword suggest?~    A) Loop unrolling  B) Insert function code at call site  C) Macro  D) Static function|B
+0|2|18|19. Which is NOT a valid escape sequence?~    A) \n  B) \t  C) \p  D) \0|C
+0|2|19|20. What is reentrant function?~    A) Recursive function  B) Safe for concurrent calls  C) Inline function  D) Static function|B
+1|0|0|1.  What is 5 + 3?~    A) 6  B) 7  C) 8  D) 9|C
+1|0|1|2.  What is 9 x 2?~    A) 18  B) 16  C) 20  D) 22|A
+1|0|2|3.  Square root of 64?~    A) 6  B) 7  C) 8  D) 9|C
+1|0|3|4.  What is 15 - 7?~    A) 6  B) 7  C) 8  D) 9|C
+1|0|4|5.  What is 100 / 4?~    A) 20  B) 25  C) 30  D) 40|B
+1|0|5|6.  What is 3^2?~    A) 6  B) 9  C) 12  D) 8|B
+1|0|6|7.  What is 50% of 80?~    A) 30  B) 35  C) 40  D) 45|C
+1|0|7|8.  What is 7 x 7?~    A) 42  B) 47  C) 49  D) 51|C
+1|0|8|9.  What is 1000 - 350?~    A) 550  B) 600  C) 650  D) 700|C
+1|0|9|10. What is 2^10?~    A) 512  B) 1024  C) 256  D) 2048|B
+1|0|10|11. What is 12 + 19?~    A) 29  B) 30  C) 31  D) 32|C
+1|0|11|12. What is 144 / 12?~    A) 10  B) 11  C) 12  D) 13|C
+1|0|12|13. What is 6 x 8?~    A) 42  B) 46  C) 48  D) 54|C
+1|0|13|14. What is 25% of 200?~    A) 40  B) 50  C) 60  D) 70|B
+1|0|14|15. What is 11^2?~    A) 111  B) 121  C) 131  D) 141|B
+1|0|15|16. What is 500 + 375?~    A) 825  B) 850  C) 875  D) 900|C
+1|0|16|17. What is 3 x 3 x 3?~    A) 9  B) 18  C) 27  D) 36|C
+1|0|17|18. What is 1/4 as a decimal?~    A) 0.2  B) 0.25  C) 0.4  D) 0.5|B
+1|0|18|19. What is the perimeter of a square with side 5?~    A) 10  B) 15  C) 20  D) 25|C
+1|0|19|20. What is 72 / 8?~    A) 7  B) 8  C) 9  D) 10|C
+1|1|0|1.  What is 15% of 200?~    A) 20  B) 25  C) 30  D) 35|C
+1|1|1|2.  Solve: 3x = 12, x = ?~    A) 3  B) 4  C) 5  D) 6|B
+1|1|2|3.  Area of rectangle 5x4?~    A) 18  B) 20  C) 22  D) 24|B
+1|1|3|4.  What is the LCM of 4 and 6?~    A) 8  B) 10  C) 12  D) 24|C
+1|1|4|5.  What is the HCF of 12 and 18?~    A) 3  B) 6  C) 9  D) 12|B
+1|1|5|6.  Solve: 2x + 5 = 15, x = ?~    A) 4  B) 5  C) 6  D) 7|B
+1|1|6|7.  What is the area of circle with radius 7? (pi=22/7)~    A) 144  B) 154  C) 164  D) 174|B
+1|1|7|8.  What is 2/3 + 1/6?~    A) 3/9  B) 5/6  C) 4/6  D) 1/2|B
+1|1|8|9.  What is the slope of y = 3x + 2?~    A) 2  B) 3  C) 5  D) 1|B
+1|1|9|10. Angles in a triangle sum to?~    A) 90  B) 180  C) 270  D) 360|B
+1|1|10|11. What is 40% of 250?~    A) 80  B) 90  C) 100  D) 110|C
+1|1|11|12. Solve: x^2 = 49, x = ?~    A) 6  B) 7  C) 8  D) 9|B
+1|1|12|13. What is the mean of 4, 8, 6, 10?~    A) 6  B) 7  C) 8  D) 9|B
+1|1|13|14. What is the volume of cube side 3?~    A) 9  B) 18  C) 27  D) 36|C
+1|1|14|15. What is 5! (factorial)?~    A) 60  B) 100  C) 120  D) 150|C
+1|1|15|16. In a right triangle, if legs are 3 and 4, hypotenuse is?~    A) 4  B) 5  C) 6  D) 7|B
+1|1|16|17. What is 3/4 as a percentage?~    A) 60%  B) 65%  C) 70%  D) 75%|D
+1|1|17|18. What is the median of: 3, 5, 7, 9, 11?~    A) 5  B) 7  C) 9  D) 11|B
+1|1|18|19. What is the sum of interior angles of a hexagon?~    A) 540  B) 620  C) 720  D) 800|C
+1|1|19|20. If speed=60km/h and time=2h, distance=?~    A) 100  B) 110  C) 120  D) 130|C
+1|2|0|1.  What is log(100) base 10?~    A) 1  B) 2  C) 3  D) 10|B
+1|2|1|2.  Derivative of x^2 is?~    A) x  B) 2  C) 2x  D) x^3|C
+1|2|2|3.  Sin(90) = ?~    A) 0  B) 0.5  C) 1  D) -1|C
+1|2|3|4.  What is the integral of 2x?~    A) x  B) x^2  C) 2x^2  D) x^2 + C|D
+1|2|4|5.  What is e approximately equal to?~    A) 2.14  B) 2.72  C) 3.14  D) 1.62|B
+1|2|5|6.  What is cos(0)?~    A) 0  B) 1  C) -1  D) 0.5|B
+1|2|6|7.  What is the sum of infinite geometric series (r=1/2, a=1)?~    A) 1  B) 1.5  C) 2  D) 3|C
+1|2|7|8.  Derivative of sin(x) is?~    A) -sin(x)  B) cos(x)  C) -cos(x)  D) tan(x)|B
+1|2|8|9.  What is the determinant of [[1,2],[3,4]]?~    A) -2  B) 2  C) 10  D) -10|A
+1|2|9|10. What is i^2 (imaginary unit)?~    A) 1  B) 0  C) -1  D) i|C
+1|2|10|11. Limit of (sin x / x) as x->0 is?~    A) 0  B) infinity  C) 1  D) undefined|C
+1|2|11|12. What is the rank of matrix [[1,0],[0,1]]?~    A) 0  B) 1  C) 2  D) 3|C
+1|2|12|13. What is nPr formula?~    A) n!/r!  B) n!/(n-r)!  C) n!/(r!(n-r)!)  D) n*r|B
+1|2|13|14. What is the value of tan(45)?~    A) 0  B) 0.5  C) 1  D) sqrt(2)|C
+1|2|14|15. What is the Euler's formula?~    A) e^ix = cosx + isinx  B) e^x = sinx  C) e^x = cosx  D) None|A
+1|2|15|16. Which series is: 1+x+x^2/2!+x^3/3!...?~    A) sin series  B) cos series  C) e^x series  D) log series|C
+1|2|16|17. What is the quadratic formula?~    A) x = -b/2a  B) x = (-b +- sqrt(b^2-4ac))/2a  C) x = b/a  D) x = a/b|B
+1|2|17|18. Derivative of e^x is?~    A) e^(x-1)  B) xe^x  C) e^x  D) 1/e^x|C
+1|2|18|19. What is P(A and B) if independent?~    A) P(A)+P(B)  B) P(A)*P(B)  C) P(A)-P(B)  D) P(A)/P(B)|B
+1|2|19|20. What is the dot product of (1,0) and (0,1)?~    A) 1  B) -1  C) 0  D) undefined|C
+2|0|0|1.  Unit of Force?~    A) Joule  B) Newton  C) Watt  D) Volt|B
+2|0|1|2.  Speed = ?~    A) Distance x Time  B) Distance / Time  C) Time / Distance  D) None|B
+2|0|2|3.  Which is the Red Planet?~    A) Earth  B) Venus  C) Mars  D) Jupiter|C
+2|0|3|4.  Unit of energy?~    A) Newton  B) Watt  C) Joule  D) Volt|C
+2|0|4|5.  What is the speed of light (approx)?~    A) 3x10^6  B) 3x10^8  C) 3x10^5  D) 3x10^4 m/s|B
+2|0|5|6.  What is gravity on Earth (approx)?~    A) 8.9  B) 9.8  C) 10.5  D) 7.8 m/s^2|B
+2|0|6|7.  Which planet is largest?~    A) Earth  B) Saturn  C) Jupiter  D) Neptune|C
+2|0|7|8.  What does a thermometer measure?~    A) Pressure  B) Temperature  C) Speed  D) Force|B
+2|0|8|9.  Unit of electric current?~    A) Volt  B) Ohm  C) Ampere  D) Watt|C
+2|0|9|10. What is the boiling point of water?~    A) 90C  B) 95C  C) 100C  D) 110C|C
+2|0|10|11. What type of energy does a moving object have?~    A) Potential  B) Kinetic  C) Thermal  D) Chemical|B
+2|0|11|12. Sound travels fastest in?~    A) Air  B) Water  C) Vacuum  D) Solids|D
+2|0|12|13. What is the unit of frequency?~    A) Meter  B) Newton  C) Hertz  D) Pascal|C
+2|0|13|14. Which force keeps planets in orbit?~    A) Magnetic  B) Electric  C) Gravitational  D) Nuclear|C
+2|0|14|15. What is the freezing point of water?~    A) -10C  B) 0C  C) 5C  D) 10C|B
+2|0|15|16. What does a voltmeter measure?~    A) Current  B) Resistance  C) Voltage  D) Power|C
+2|0|16|17. Which color of light has highest frequency?~    A) Red  B) Green  C) Yellow  D) Violet|D
+2|0|17|18. What is the SI unit of mass?~    A) Pound  B) Gram  C) Kilogram  D) Ounce|C
+2|0|18|19. What is the full form of LED?~    A) Light Emitting Diode  B) Light Energy Device  C) Low Emission Diode  D) Laser Emitting Diode|A
+2|0|19|20. Which gas do plants absorb?~    A) Oxygen  B) Nitrogen  C) Carbon Dioxide  D) Hydrogen|C
+2|1|0|1.  Formula for kinetic energy?~    A) mgh  B) mv  C) 1/2 mv^2  D) F*d|C
+2|1|1|2.  Which law: F = ma?~    A) 1st  B) 2nd  C) 3rd  D) Law of gravity|B
+2|1|2|3.  Unit of electric resistance?~    A) Ampere  B) Volt  C) Ohm  D) Watt|C
+2|1|3|4.  What is work done formula?~    A) W = F/d  B) W = F*d  C) W = m*a  D) W = P/t|B
+2|1|4|5.  What is Ohm's Law?~    A) V = IR  B) V = I/R  C) V = I+R  D) V = I-R|A
+2|1|5|6.  Which wave does not need medium?~    A) Sound  B) Water  C) Electromagnetic  D) Mechanical|C
+2|1|6|7.  What is the formula for power?~    A) P = W*t  B) P = W/t  C) P = F*d  D) P = m*v|B
+2|1|7|8.  What is the refractive index?~    A) Speed of light in medium / in vacuum  B) Speed in vacuum / in medium  C) Ratio of angles  D) None|B
+2|1|8|9.  What is Newton's 3rd law?~    A) F=ma  B) Inertia  C) Action-reaction  D) Momentum|C
+2|1|9|10. What is the unit of pressure?~    A) Newton  B) Joule  C) Pascal  D) Watt|C
+2|1|10|11. What is the wavelength-frequency relation?~    A) v = lambda + f  B) v = lambda * f  C) v = lambda / f  D) v = f / lambda|B
+2|1|11|12. What is the formula for potential energy?~    A) 1/2 mv^2  B) mgh  C) F*d  D) P*t|B
+2|1|12|13. What type of lens converges light?~    A) Concave  B) Plane  C) Convex  D) Diverging|C
+2|1|13|14. What is the unit of capacitance?~    A) Henry  B) Tesla  C) Farad  D) Ohm|C
+2|1|14|15. What happens to resistance when temp increases (conductor)?~    A) Decreases  B) Stays same  C) Increases  D) Becomes zero|C
+2|1|15|16. What is the formula for momentum?~    A) p = m/v  B) p = m*v  C) p = F*t  D) p = m*a|B
+2|1|16|17. Which mirror forms only virtual image?~    A) Concave  B) Convex  C) Plane  D) Both B and C|D
+2|1|17|18. What is the unit of magnetic field strength?~    A) Ohm  B) Farad  C) Tesla  D) Henry|C
+2|1|18|19. What is absolute zero in Celsius?~    A) -173  B) -273  C) -373  D) 0|B
+2|1|19|20. What is the principle of conservation of energy?~    A) Energy created from nothing  B) Energy destroyed  C) Energy neither created nor destroyed  D) None|C
+2|2|0|1.  What is the Heisenberg Uncertainty Principle?~    A) Cannot measure mass  B) Cannot know position and momentum precisely  C) Light is wave  D) E=mc^2|B
+2|2|1|2.  What is the formula E = mc^2 represent?~    A) Kinetic energy  B) Mass-energy equivalence  C) Potential energy  D) Momentum|B
+2|2|2|3.  What is the Planck's constant (approx)?~    A) 6.67x10^-11  B) 1.6x10^-19  C) 6.63x10^-34  D) 9.1x10^-31|C
+2|2|3|4.  What is a black hole?~    A) Empty space  B) Region where gravity prevents light escape  C) Dead star  D) Nebula|B
+2|2|4|5.  What is the photoelectric effect?~    A) Light bending  B) Electrons emitted by light  C) Light interference  D) Diffraction|B
+2|2|5|6.  What is the unit of radioactivity?~    A) Gray  B) Sievert  C) Becquerel  D) Curie|C
+2|2|6|7.  Which particle has no charge?~    A) Proton  B) Electron  C) Neutron  D) Positron|C
+2|2|7|8.  What is nuclear fusion?~    A) Splitting nucleus  B) Combining nuclei  C) Radioactive decay  D) Fission|B
+2|2|8|9.  What is the Doppler effect?~    A) Light bending  B) Frequency change due to motion  C) Sound absorption  D) Wave diffraction|B
+2|2|9|10. What is Schrodinger's equation used for?~    A) Classical mechanics  B) Quantum state of particle  C) Thermodynamics  D) Electromagnetism|B
+2|2|10|11. What is the critical angle in total internal reflection?~    A) Angle of refraction = 0  B) Angle of refraction = 90  C) Angle of incidence = 0  D) Angle of reflection = 45|B
+2|2|11|12. What is the speed of sound in air (approx)?~    A) 230 m/s  B) 340 m/s  C) 450 m/s  D) 540 m/s|B
+2|2|12|13. What is the de Broglie wavelength formula?~    A) lambda = h/mv  B) lambda = mv/h  C) lambda = hv/m  D) lambda = m/hv|A
+2|2|13|14. What is the Lorentz factor?~    A) 1/sqrt(1-v^2/c^2)  B) sqrt(1-v^2/c^2)  C) v/c  D) c/v|A
+2|2|14|15. What is Bernoulli's principle about?~    A) Magnetic fields  B) Fluid pressure and velocity  C) Light refraction  D) Heat transfer|B
+2|2|15|16. What is entropy?~    A) Order in system  B) Measure of disorder  C) Total energy  D) Kinetic energy|B
+2|2|16|17. Which force is responsible for radioactive decay?~    A) Gravity  B) Electromagnetic  C) Strong nuclear  D) Weak nuclear|D
+2|2|17|18. What is the wavelength of visible light range?~    A) 100-300 nm  B) 400-700 nm  C) 800-1000 nm  D) 1-100 nm|B
+2|2|18|19. What is Avogadro's number?~    A) 6.02x10^23  B) 6.02x10^22  C) 6.02x10^24  D) 3.14x10^23|A
+2|2|19|20. What is the first law of thermodynamics?~    A) Entropy always increases  B) Energy is conserved  C) Heat flows cold to hot  D) Absolute zero unreachable|B
+3|0|0|1.  Opposite of Happy?~    A) Sad  B) Angry  C) Fast  D) Slow|A
+3|0|1|2.  Which is a noun?~    A) Run  B) Beautiful  C) School  D) Quickly|C
+3|0|2|3.  Correct spelling?~    A) Recieve  B) Receive  C) Receeve  D) Receve|B
+3|0|3|4.  Plural of 'cat'?~    A) cates  B) cats  C) caties  D) cat|B
+3|0|4|5.  Opposite of 'big'?~    A) large  B) huge  C) small  D) tall|C
+3|0|5|6.  Which is a verb?~    A) happy  B) quickly  C) run  D) beautiful|C
+3|0|6|7.  What is the capital letter used for?~    A) End of sentence  B) Start of sentence  C) Middle of sentence  D) Plural|B
+3|0|7|8.  Which is an adjective?~    A) walk  B) slowly  C) beautiful  D) school|C
+3|0|8|9.  Correct form: 'She ___ to school.' (go)~    A) go  B) goes  C) gone  D) going|B
+3|0|9|10. Which punctuation ends a question?~    A) .  B) !  C) ?  D) ,|C
+3|0|10|11. What is a pronoun?~    A) Action word  B) Replaces noun  C) Describes noun  D) Joining word|B
+3|0|11|12. Plural of 'child'?~    A) childs  B) childes  C) children  D) childrens|C
+3|0|12|13. Which is an adverb?~    A) fast (describing verb)  B) fast (noun)  C) fast (adjective)  D) None|A
+3|0|13|14. What does 'big' mean?~    A) small  B) large  C) tall  D) fast|B
+3|0|14|15. Which is a conjunction?~    A) run  B) and  C) school  D) happy|B
+3|0|15|16. Opposite of 'hot'?~    A) warm  B) cold  C) cool  D) mild|B
+3|0|16|17. 'The dog ___ loud.' (bark)~    A) bark  B) barks  C) barked  D) barking|B
+3|0|17|18. Which word is a color?~    A) happy  B) run  C) blue  D) slowly|C
+3|0|18|19. Correct sentence?~    A) she run fast  B) She run fast  C) She runs fast  D) she runs fast|C
+3|0|19|20. What is a sentence?~    A) Single word  B) Group of letters  C) Complete thought  D) Paragraph|C
+3|1|0|1.  Synonym of 'Happy'?~    A) Sad  B) Joyful  C) Angry  D) Tired|B
+3|1|1|2.  'She ___ to school daily.' (go - present)~    A) go  B) goes  C) gone  D) going|B
+3|1|2|3.  What is a simile?~    A) Direct comparison  B) Comparison using like/as  C) Exaggeration  D) Personification|B
+3|1|3|4.  Passive voice of 'He wrote a letter.'~    A) Letter was written by him  B) He has written  C) A letter was write  D) He wrote letter|A
+3|1|4|5.  What is the past tense of 'buy'?~    A) buyed  B) buys  C) bought  D) buying|C
+3|1|5|6.  Antonym of 'ancient'?~    A) old  B) modern  C) historic  D) classic|B
+3|1|6|7.  What is a metaphor?~    A) Comparison using like/as  B) Direct comparison without like/as  C) Exaggeration  D) Rhythm|B
+3|1|7|8.  Identify the preposition: 'The book is on the table.'~    A) book  B) table  C) on  D) is|C
+3|1|8|9.  What is the plural of 'radius'?~    A) radiuses  B) radius  C) radii  D) radies|C
+3|1|9|10. Which is correct: 'There/Their/They're going home.'~    A) There  B) Their  C) They're  D) Theyre|C
+3|1|10|11. What is alliteration?~    A) Rhyming words  B) Repeated consonant sounds  C) Metaphor  D) Simile|B
+3|1|11|12. What tense: 'She has eaten.'~    A) Past simple  B) Future  C) Present perfect  D) Past continuous|C
+3|1|12|13. Synonym of 'enormous'?~    A) tiny  B) huge  C) fast  D) slow|B
+3|1|13|14. What is reported speech?~    A) Direct quotes  B) Reported words of speaker  C) Questions  D) Exclamations|B
+3|1|14|15. Which article is used before vowel sounds?~    A) a  B) an  C) the  D) none|B
+3|1|15|16. Identify subject: 'The tall boy runs fast.'~    A) tall  B) runs  C) boy  D) fast|C
+3|1|16|17. What is an oxymoron?~    A) Exaggeration  B) Contradictory terms together  C) Simile  D) Rhyme|B
+3|1|17|18. Past tense of 'swim'?~    A) swimmed  B) swam  C) swum  D) swimming|B
+3|1|18|19. What does 'ambiguous' mean?~    A) Clear  B) Having multiple meanings  C) Impossible  D) Definite|B
+3|1|19|20. Correct punctuation: 'Its a nice day.'~    A) Its  B) It's  C) its'  D) ITs|B
+3|2|0|1.  What is a conjunction?~    A) Action word  B) Joining word  C) Naming word  D) Describing word|B
+3|2|1|2.  Passive: 'The cat ate the mouse.'~    A) Mouse was eaten by cat  B) Cat was eaten  C) Mouse ate cat  D) None|A
+3|2|2|3.  Antonym of 'Benevolent'?~    A) Kind  B) Generous  C) Malevolent  D) Friendly|C
+3|2|3|4.  What is an oxymoron example?~    A) Pretty face  B) Living dead  C) Fast car  D) Big house|B
+3|2|4|5.  What is hyperbole?~    A) Understatement  B) Extreme exaggeration  C) Comparison  D) Personification|B
+3|2|5|6.  What is the subjunctive mood?~    A) Commands  B) Facts  C) Hypothetical/wishes  D) Questions|C
+3|2|6|7.  Which is a dangling modifier?~    A) Correct adjective  B) Misplaced descriptive phrase  C) Noun phrase  D) Conjunction|B
+3|2|7|8.  What is a gerund?~    A) Verb used as adjective  B) Verb used as noun  C) Verb used as adverb  D) Infinitive|B
+3|2|8|9.  What is synecdoche?~    A) Part represents whole  B) Comparison  C) Exaggeration  D) Personification|A
+3|2|9|10. Correct sentence?~    A) Neither he nor she were right  B) Neither he nor she was right  C) Neither he nor she are right  D) None|B
+3|2|10|11. What is assonance?~    A) Repeated consonant sounds  B) Repeated vowel sounds  C) Rhyming  D) Alliteration|B
+3|2|11|12. What is an appositive?~    A) Opposite meaning  B) Noun renaming another noun  C) Verb form  D) Conjunction|B
+3|2|12|13. What is the Oxford comma?~    A) Comma after last item in list  B) Comma before last item in list  C) Comma after quote  D) Semicolon|B
+3|2|13|14. 'Whom' vs 'Who': 'Give the letter to ___ you want.'~    A) who  B) whom  C) whose  D) whoever|B
+3|2|14|15. What is a paradox?~    A) False statement  B) Self-contradictory true statement  C) Exaggeration  D) Simile|B
+3|2|15|16. What is zeugma?~    A) One word governs two or more words  B) Repetition  C) Rhyme  D) Inversion|A
+3|2|16|17. What is the pluperfect tense?~    A) Future perfect  B) Past perfect  C) Present perfect  D) Conditional|B
+3|2|17|18. What is litotes?~    A) Exaggeration  B) Understatement using negation  C) Simile  D) Metaphor|B
+3|2|18|19. What is epistrophe?~    A) Repetition at start of clause  B) Repetition at end of clause  C) Metaphor  D) Rhyme|B
+3|2|19|20. What does 'ephemeral' mean?~    A) Permanent  B) Short-lived  C) Loud  D) Hidden|B
+4|0|0|1.  Capital of Pakistan?~    A) Karachi  B) Lahore  C) Islamabad  D) Peshawar|C
+4|0|1|2.  How many continents?~    A) 5  B) 6  C) 7  D) 8|C
+4|0|2|3.  National language of Pakistan?~    A) English  B) Urdu  C) Punjabi  D) Sindhi|B
+4|0|3|4.  Largest ocean?~    A) Atlantic  B) Indian  C) Arctic  D) Pacific|D
+4|0|4|5.  How many days in a leap year?~    A) 364  B) 365  C) 366  D) 367|C
+4|0|5|6.  Which country invented paper?~    A) Japan  B) India  C) China  D) Egypt|C
+4|0|6|7.  How many planets in solar system?~    A) 7  B) 8  C) 9  D) 10|B
+4|0|7|8.  Which is the smallest country?~    A) Monaco  B) San Marino  C) Vatican City  D) Liechtenstein|C
+4|0|8|9.  Capital of France?~    A) Berlin  B) Paris  C) Rome  D) Madrid|B
+4|0|9|10. Which is the longest river?~    A) Amazon  B) Nile  C) Yangtze  D) Mississippi|B
+4|0|10|11. How many colors in a rainbow?~    A) 5  B) 6  C) 7  D) 8|C
+4|0|11|12. Which metal is liquid at room temperature?~    A) Iron  B) Gold  C) Mercury  D) Silver|C
+4|0|12|13. Which is the highest mountain?~    A) K2  B) Kangchenjunga  C) Everest  D) Lhotse|C
+4|0|13|14. How many hours in a day?~    A) 12  B) 20  C) 24  D) 48|C
+4|0|14|15. Capital of USA?~    A) New York  B) Los Angeles  C) Chicago  D) Washington DC|D
+4|0|15|16. Which is the largest continent?~    A) Africa  B) Asia  C) Europe  D) America|B
+4|0|16|17. How many months have 31 days?~    A) 5  B) 6  C) 7  D) 8|C
+4|0|17|18. Which planet is closest to the Sun?~    A) Venus  B) Mars  C) Mercury  D) Earth|C
+4|0|18|19. What language do people in Brazil speak?~    A) Spanish  B) Portuguese  C) French  D) English|B
+4|0|19|20. National animal of Pakistan?~    A) Lion  B) Tiger  C) Markhor  D) Snow Leopard|C
+4|1|0|1.  Who wrote 'Romeo and Juliet'?~    A) Dickens  B) Shakespeare  C) Keats  D) Milton|B
+4|1|1|2.  Year of first moon landing?~    A) 1965  B) 1967  C) 1969  D) 1971|C
+4|1|2|3.  Chemical symbol of Gold?~    A) Go  B) Gd  C) Ag  D) Au|D
+4|1|3|4.  What is the capital of Australia?~    A) Sydney  B) Melbourne  C) Canberra  D) Brisbane|C
+4|1|4|5.  Who painted the Mona Lisa?~    A) Michelangelo  B) Da Vinci  C) Picasso  D) Raphael|B
+4|1|5|6.  How many bones in adult human body?~    A) 196  B) 206  C) 216  D) 226|B
+4|1|6|7.  What is the currency of Japan?~    A) Won  B) Yuan  C) Yen  D) Baht|C
+4|1|7|8.  Which is the largest desert?~    A) Gobi  B) Sahara  C) Arabian  D) Antarctic|D
+4|1|8|9.  Who invented the telephone?~    A) Edison  B) Bell  C) Tesla  D) Marconi|B
+4|1|9|10. What is the capital of China?~    A) Shanghai  B) Hong Kong  C) Beijing  D) Guangzhou|C
+4|1|10|11. Which country has the most population?~    A) USA  B) India  C) China  D) Russia|B
+4|1|11|12. What is the hardest natural substance?~    A) Gold  B) Iron  C) Diamond  D) Platinum|C
+4|1|12|13. In which year did WW2 end?~    A) 1943  B) 1944  C) 1945  D) 1946|C
+4|1|13|14. What is the national sport of Pakistan?~    A) Cricket  B) Hockey  C) Football  D) Squash|B
+4|1|14|15. Which organ pumps blood?~    A) Lungs  B) Liver  C) Heart  D) Kidney|C
+4|1|15|16. What is the capital of Germany?~    A) Munich  B) Hamburg  C) Frankfurt  D) Berlin|D
+4|1|16|17. Which gas is most in the atmosphere?~    A) Oxygen  B) Carbon Dioxide  C) Nitrogen  D) Hydrogen|C
+4|1|17|18. Who discovered penicillin?~    A) Pasteur  B) Fleming  C) Lister  D) Koch|B
+4|1|18|19. How many sides does a hexagon have?~    A) 5  B) 6  C) 7  D) 8|B
+4|1|19|20. What is the tallest land animal?~    A) Elephant  B) Camel  C) Giraffe  D) Horse|C
+4|2|0|1.  What is the speed of light in vacuum?~    A) 3x10^6 m/s  B) 3x10^8 m/s  C) 3x10^5 m/s  D) 3x10^10 m/s|B
+4|2|1|2.  In what year was the UN founded?~    A) 1943  B) 1944  C) 1945  D) 1950|C
+4|2|2|3.  What is the atomic number of carbon?~    A) 4  B) 6  C) 8  D) 12|B
+4|2|3|4.  Who proposed the Theory of Relativity?~    A) Newton  B) Bohr  C) Einstein  D) Planck|C
+4|2|4|5.  What is the capital of Kazakhstan?~    A) Almaty  B) Astana  C) Bishkek  D) Tashkent|B
+4|2|5|6.  In which year did Pakistan gain independence?~    A) 1945  B) 1946  C) 1947  D) 1948|C
+4|2|6|7.  What does DNA stand for?~    A) Deoxyribose Nucleic Acid  B) Deoxyribonucleic Acid  C) Di-Nucleic Acid  D) Dynamic Nucleic Acid|B
+4|2|7|8.  Who wrote 'The Republic'?~    A) Aristotle  B) Socrates  C) Plato  D) Homer|C
+4|2|8|9.  What is the chemical formula for water?~    A) HO  B) H2O  C) H2O2  D) HO2|B
+4|2|9|10. Which country has the most Nobel Prize winners?~    A) Germany  B) UK  C) USA  D) France|C
+4|2|10|11. What is the Richter scale used to measure?~    A) Wind speed  B) Earthquake magnitude  C) Rainfall  D) Temperature|B
+4|2|11|12. Which element has the symbol 'Fe'?~    A) Fluorine  B) Francium  C) Iron  D) Fermium|C
+4|2|12|13. What is the capital of Brazil?~    A) Rio de Janeiro  B) Sao Paulo  C) Brasilia  D) Salvador|C
+4|2|13|14. Who invented the World Wide Web?~    A) Bill Gates  B) Steve Jobs  C) Tim Berners-Lee  D) Vint Cerf|C
+4|2|14|15. What is the largest organ in the human body?~    A) Liver  B) Brain  C) Lung  D) Skin|D
+4|2|15|16. In which century did the Renaissance begin?~    A) 13th  B) 14th  C) 15th  D) 16th|B
+4|2|16|17. What is the pH of pure water?~    A) 6  B) 7  C) 8  D) 9|B
+4|2|17|18. Which treaty ended World War 1?~    A) Treaty of Paris  B) Treaty of Versailles  C) Treaty of Vienna  D) Treaty of Berlin|B
+4|2|18|19. What is the powerhouse of the cell?~    A) Nucleus  B) Ribosome  C) Mitochondria  D) Chloroplast|C
+4|2|19|20. Who is known as the father of computers?~    A) Alan Turing  B) Charles Babbage  C) John von Neumann  D) Bill Gates|B
